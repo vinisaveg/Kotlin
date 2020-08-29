@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aula03</string>
+    <string name="she">Ela</string>
+    <string name="he">Ele</string>
+    <string name="finish">Finalizar</string>
+    <string name="rather_not_answer">Melhor não responder</string>
+    <string name="what_pronoun_would_you_like_to_use">O que você gostaria de usar?</string>
+    <string name="name">Nome</string>
+    <string name="neutral">neutro</string>
+</resources>

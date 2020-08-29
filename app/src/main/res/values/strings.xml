@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aula03</string>
+    <string name="she">She</string>
+    <string name="he">He</string>
+    <string name="finish">Finish</string>
+    <string name="rather_not_answer">Rather not answer</string>
+    <string name="what_pronoun_would_you_like_to_use">What pronoun would you like to use?</string>
+    <string name="name">Name</string>
+    <string name="neutral">neutral</string>
+</resources>
